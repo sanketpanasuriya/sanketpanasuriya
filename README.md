@@ -1,4 +1,4 @@
-## Hello, I'm [Dilip Sarvaiya!](http://18soece11040.dx.am/) 👋
+## Hello, I'm [Sanket Panasuriya!](http://18soece11040.dx.am/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketpanasuriya&label=Views&color=blue&style=plastic" alt="sanketpanasuriya" /> </p>
 
@@ -26,7 +26,7 @@
 
 
 [![Twitter: ](https://img.shields.io/twitter/follow/sanketpanasuri1?style=social)](https://twitter.com/sanketpanasuri1)
-[![Linkedin: Sanket Panasuriya](https://img.shields.io/badge/-Dilip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-panasuriya-84b7391a7/)]https://www.linkedin.com/in/sanket-panasuriya-84b7391a7/)
+[![Linkedin: Sanket Panasuriya](https://img.shields.io/badge/-Sanket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-panasuriya-84b7391a7/)]https://www.linkedin.com/in/sanket-panasuriya-84b7391a7/)
 [![GitHub sanketpanasuriya](https://img.shields.io/github/followers/Dilip-Sarvaiya?label=follow&style=social)](https://github.com/Sanketpanasuriya)
 
 **Languages and Tools Use:**  
