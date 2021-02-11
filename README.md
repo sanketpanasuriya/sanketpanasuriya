@@ -17,11 +17,11 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Android Application development & Website development.
+- 🌱 I’m currently learning Data Science and Machine Learning.
 - 🤔 I’m looking for help with UI Design.
-- 💬 Ask me about Android or Website Designing and Development tools related stuff.
+- 💬 Ask me about Data science and Machine learning related stuff.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 4 hours listening songs & Movie everyday.
+- ⚡ Fun fact: I spend almost 3 hours listening songs & Movie everyday.
 
 
 
