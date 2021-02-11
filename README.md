@@ -26,7 +26,7 @@
 
 [![Twitter: ](https://img.shields.io/twitter/follow/sanketpanasuri1?style=social)](https://twitter.com/sanketpanasuri1)
 [![Linkedin: Sanket Panasuriya](https://img.shields.io/badge/-Sanket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-panasuriya-84b7391a7/)](https://www.linkedin.com/in/sanket-panasuriya-84b7391a7/)
-[![GitHub sanketpanasuriya](https://img.shields.io/github/followers/Dilip-Sarvaiya?label=follow&style=social)](https://github.com/Sanketpanasuriya)
+[![GitHub sanketpanasuriya](https://img.shields.io/github/followers/sanketpanasuriya?label=follow&style=social)](https://github.com/Sanketpanasuriya)
 
 **Languages and Tools Use:**  
 
@@ -43,7 +43,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//visual-studio-code//visual-studio-code.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
  
 
 <a href="https://github.com/sanketpanasuriya">
