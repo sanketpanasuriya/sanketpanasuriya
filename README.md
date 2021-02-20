@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Data Science and Machine Learni
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 💬 Ask me about Data science and Machine learning related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 3 hours listening songs & Movie everyday.
