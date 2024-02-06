@@ -20,7 +20,7 @@
 - 🌱 Exploring Ruby on Rails and working on exciting projects.
 - 💬 Open to discussing Ruby on Rails and coding-related stuff.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 3 hours listening songs & movie everyday.
+- ⚡ Fun fact: I spend almost 2 hours listening songs & movie everyday.
 
 
 
